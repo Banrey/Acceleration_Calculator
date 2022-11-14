@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Acceleration Calculator</string>
+    <string name="txt_instruction">Input the required values to calculate average acceleration of the car.</string>
+    <string name="txt_V1">Enter Initial Velocity</string>
+    <string name="txt_V2">Enter Final Velocity</string>
+    <string name="txt_T">Enter Time</string>
+    <string name="txt_compute">Compute</string>
+    <string name="txt_compute_result">Showing Result(s)</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_demo">This project is for demonstration use.</string>
+</resources>
