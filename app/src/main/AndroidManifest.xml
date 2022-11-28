@@ -25,6 +25,12 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
+        <activity
+            android:name=".ResultActivity"
+            android:label="@string/title_activity_result">
+
+        </activity>
     </application>
 
 </manifest>

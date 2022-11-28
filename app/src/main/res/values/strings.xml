@@ -8,4 +8,7 @@
     <string name="txt_compute_result">Showing Result(s)</string>
     <string name="txt_close">Close</string>
     <string name="txt_demo">This project is for demonstration use.</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="txt_result">Showing result...</string>
+    <string name="btn_return">New Computation</string>
 </resources>
